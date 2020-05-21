@@ -66,9 +66,12 @@
 #### କେତେ ଦିନେ ପ୍ରଭୁ ଶୁଣିବ ଗୁହାରୀ,
 #### ଆହେ ଗୋଲକ ବିହାରୀ???
 
-> Styles: [English], [Odia], [Translated].
 
 - ସ୍ନିଗ୍ଧାରାଣୀ ସାହୁ
+
+<br>
+<br>
+> Styles: [English], [Odia], [Translated].
 
 [English]: README.md
 [Odia]: odia.md
