@@ -1,3 +1,8 @@
+![](assets/img/face-mask-5083797_1920.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://soundcloud.com/teachersnigdha/let-the-plague-go).
+
 ```
 In your court how can we live,
 Tell us O Jagannath?
@@ -50,10 +55,5 @@ How many days will the Lord hear the cry,
 O Lord Krishna???
 ```
 
-> Styles: [English], [Odia], [Translated].
-
-- Snigdharani Sahu
-
-[English]: README.md
-[Odia]: odia.md
-[Translated]: translated.md
+- Poem by Snigdharani Sahoo
+- Image by pisauikan from Pixabay
